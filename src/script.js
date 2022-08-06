@@ -96,7 +96,7 @@ const questions = [
         ]
     },
     {
-        question: 'Who is the author of this article?',
+        question: 'Who built this project?',
         answers: [
             { text: 'Prince Philips', correct: false },
             { text: 'Barrack Obama', correct: false },
